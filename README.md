@@ -1,2 +1,2 @@
-# gradle-util-plugin
+# gradle-util
 Gradle util plugin for setup projects.
